@@ -39,16 +39,15 @@ At **Azno**, we believe in the power of community-driven innovation. We are comm
 ---
 
 ## 📊 Organization Activity
-![Azno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azno-space&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azno-space&layout=compact&theme=tokyonight)
+![Azno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azno-space&show_icons=true&theme=tokyonight&cache=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azno-space&layout=compact&theme=tokyonight&cache=1)
 
 ---
 
 ## 📬 Get in Touch
 Let's talk about the future of work:
 - 🌐 **Official Website:** [azno.space](https://azno.space)
-- 📧 **Technical Inquiries:** `dev@azno.space`
-- 💬 **Support:** Reach out via our website's live chat.
+- 📧 **Technical Inquiries:** `azno.space@gmail.com`
 
 ---
 <p align="center">
