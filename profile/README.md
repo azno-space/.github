@@ -5,7 +5,7 @@
 # Azno 🚀
 ### The Smart Infrastructure for Coworking & Shared Workspace Management
 
-[Website](https://azno.space) • [LinkedIn](https://linkedin.com/company/azno) • [Contact Support](mailto:support@azno.space)
+[Website](https://azno.space) • [LinkedIn](https://www.linkedin.com/company/aznospace) • [Contact Support](azno.space@gmail.com)
 
 ---
 
