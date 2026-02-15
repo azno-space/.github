@@ -39,8 +39,11 @@ At **Azno**, we believe in the power of community-driven innovation. We are comm
 ---
 
 ## 📊 Organization Activity
-![Azno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azno-space&show_icons=true&theme=tokyonight&cache=1)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azno-space&layout=compact&theme=tokyonight&cache=1)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=azno-space&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Azno Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azno-space&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
