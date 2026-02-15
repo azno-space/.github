@@ -22,10 +22,10 @@ We take pride in writing clean, efficient, and scalable code. Our ecosystem is b
 | Category | Technologies |
 | :--- | :--- |
 | **Frontend** | React, Next.js, Tailwind CSS, TypeScript |
-| **Backend** | Node.js (NestJS), Python (FastAPI/Django) |
+| **Backend** | .NET (C#), Node.js |
 | **Mobile** | Flutter / React Native |
-| **Database** | PostgreSQL, Redis, MongoDB |
-| **Infrastructure** | Docker, Kubernetes, Nginx, CI/CD |
+| **Database** | PostgreSQL |
+| **Infrastructure** | Docker, CI/CD Pipelines |
 
 ---
 
