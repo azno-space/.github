@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/profile/banner.png" alt="Azno Banner" width="100%">
+</p>
+
 # Azno 🚀
 ### The Smart Infrastructure for Coworking & Shared Workspace Management
 
